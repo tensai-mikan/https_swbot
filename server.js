@@ -6,7 +6,7 @@ const fs = require('fs');
 const port = 443;
 
 const PASSWORD = "opensesame" 
-#const PASSWORD = fs.readFileSync('pw.txt')
+//const PASSWORD = fs.readFileSync('pw.txt')
 
 
 const cert = {
