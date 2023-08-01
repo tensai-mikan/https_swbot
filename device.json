@@ -1,0 +1,18 @@
+{
+	"plug1-toggle": {
+		"macaddress": "70:04:1D:*:*:*",
+		"command": "toggle"
+	},
+	"plug1-on": {
+		"macaddress": "70:04:1D:*:*:*",
+		"command": "on"
+	},
+	"plug1-off": {
+		"macaddress": "70:04:1D:*:*:*",
+		"command": "off"
+	},
+	"bot1-push": {
+		"macaddress": "70:04:1D:*:*:*",
+		"command": "press"
+	}
+}
